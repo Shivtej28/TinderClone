@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:title="Settings"
+        android:id="@+id/setting"
+        />
+
+    <item
+        android:title="Sign Out"
+        android:id="@+id/signout"/>
+
+    <item
+        android:id="@+id/match"
+        android:title="Matches"
+        android:icon="@drawable/chaticon"
+        app:showAsAction="ifRoom"/>
+
+</menu>
