@@ -1,9 +1,9 @@
 # TinderClone
 This is basic Tinder clone using java
-▷ Create an android app like tinder
+# Create an android app like tinder
 
 
-▷ Tools Used In this Project:
+## ▷ Tools Used In this Project:
 
     Android Studio;
 		
@@ -11,7 +11,7 @@ This is basic Tinder clone using java
     
 	SwipeCards;
 
-▷ In this project we've done:
+## ▷ In this project we've done:
 
 1 - SwipeCards Implementation;
 
@@ -21,16 +21,16 @@ This is basic Tinder clone using java
 
 PS: If ou're going to download the full project please use your firebase API, the one in the project will NOT be mantained and the app may not work.
 
-Implementation Guide
+# Implementation Guide
 
 
-A - Project:
+# A - Project:
   
 	1 - Open the Project in your android studio;
   
 	2 - !!!!IMPORTANT!!!! Change the Package Name. You can check how to do that here (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
 
-B - Firebase Panel:
+# B - Firebase Panel:
 	
 	1 - Create Firebase Project (https://console.firebase.google.com/);
 	
@@ -41,7 +41,8 @@ B - Firebase Panel:
 	4 - Go to Firebase -> storage and activate it;
 	
 
-▷ Screenshorts: 
+# ▷ Screenshorts: 
+
        ![](Screenshorts/Screenshot_20201227-172430.jpg)
        ![](Screenshorts/Screenshot_20201227-172700.jpg)
        ![](Screenshorts/Screenshot_20201227-172707.jpg)
