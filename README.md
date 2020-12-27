@@ -16,13 +16,14 @@ This is basic Tinder clone using java
 1 - SwipeCards Implementation;
 
 ▷ Screenshorts: 
-       ![]()
-       ![]()
-       ![]()
-       ![]()
-       ![]()
-       ![]()
-       ![]()
+       ![](Screenshorts/Screenshot_20201227-172430.jpg)
+       ![](Screenshorts/Screenshot_20201227-172700.jpg)
+       ![](Screenshorts/Screenshot_20201227-172707.jpg)
+       ![](Screenshorts/Screenshot_20201227-173331.jpg)
+       ![](Screenshorts/Screenshot_20201227-173411.jpg)
+       ![](Screenshorts/Screenshot_20201227-173426.jpg)
+       ![](Screenahorts/Screenshot_20201227-173512.jpg)
+       ![](Screenahorts/Screenshot_20201227-173532.jpg)
 
 
 
