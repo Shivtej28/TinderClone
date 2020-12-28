@@ -48,7 +48,6 @@ PS: If ou're going to download the full project please use your firebase API, th
 ![](Screenshorts/Screenshot_20201227-173331.jpg)
 ![](Screenshorts/Screenshot_20201227-173411.jpg)
 ![](Screenshorts/Screenshot_20201227-173426.jpg)
-![](Screenahorts/Screenshot_20201227-173512.jpg)
-![](Screenahorts/Screenshot_20201227-173532.jpg)
+![](Screenshorts/Screenshot_20201227-173532.jpg)
 
 !!!DONE!!!
