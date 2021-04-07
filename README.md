@@ -1,53 +1,9 @@
-# TinderClone
-This is basic Tinder clone using java
-# Create an android app like tinder
+## TinderClone
 
+This project consist of clone of popular dating app Tinder.In this project we built a swipeable images which we can like or dislike by swiping left or right.
 
-## ▷ Tools Used In this Project:
+We create a account using email id on this clone. For user authentication we use Firebase AUthetication.After login user can see profile of their intrested people which they can like or dislike.If two app users like each other's profile then they can chat with each other in the app.
+For database we have use Firebase Realtime Database and to store profile images we have used Firebase Storage. Using Firebase Realtime Database we can update data in our at raeltime.For chatting we have also used Realtime Database.
 
-    Android Studio;
-		
-    Firebase: *Realtime database *Authentication
-    
-	SwipeCards;
+In this project you will learn how to use Firebase for our app.you will learn how to authenticate user using firebase, how to store data to firebase and hoe to use it.You will learn hoe to use library to implement swipeable cardview features.
 
-## ▷ In this project we've done:
-
-1 - SwipeCards Implementation;
-
-
-
-
-
-PS: If ou're going to download the full project please use your firebase API, the one in the project will NOT be mantained and the app may not work.
-
-# Implementation Guide
-
-
-# A - Project:
-  
-	1 - Open the Project in your android studio;
-  
-	2 - !!!!IMPORTANT!!!! Change the Package Name. You can check how to do that here (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
-
-# B - Firebase Panel:
-	
-	1 - Create Firebase Project (https://console.firebase.google.com/);
-	
-	2 - import the file google-service.json into your project as the instructions say;
-	
-	3 - Go to Firebase -> Registration and activate Login/Registrtion with email
-	
-	4 - Go to Firebase -> storage and activate it;
-	
-
-# ▷ Screenshorts: 
-![](Screenshorts/Screenshot_20201227-172430.jpg)
-![](Screenshorts/Screenshot_20201227-172700.jpg)
-![](Screenshorts/Screenshot_20201227-172707.jpg)
-![](Screenshorts/Screenshot_20201227-173331.jpg)
-![](Screenshorts/Screenshot_20201227-173411.jpg)
-![](Screenshorts/Screenshot_20201227-173426.jpg)
-![](Screenshorts/Screenshot_20201227-173532.jpg)
-
-!!!DONE!!!
